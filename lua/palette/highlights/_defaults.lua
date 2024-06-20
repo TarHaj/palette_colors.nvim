@@ -43,7 +43,7 @@ return {
 	{ "DocComment", a.accent3, nil, m.italic },
 
 	-- Identifiers
-	{ "Identifier", a.accent2 },
+	{ "Identifier", m.accent6 },
 	{ "Variable", m.color7 },
 	{ "Function", a.accent4 },
 
