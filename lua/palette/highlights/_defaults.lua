@@ -28,11 +28,11 @@ return {
 
 	-- Statements and Keywords
 	{ "Statement", m.color3 },
-	{ "Conditional", m.color3 },
-	{ "Repeat", m.color3 },
-	{ "Exception", m.color3 },
-	{ "Directory", m.color3 },
-	{ "Keyword", m.color3 },
+	{ "Conditional", a.accent2 },
+	{ "Repeat", a.accent2 },
+	{ "Exception", a.accent2 },
+	{ "Directory",a.accent2 },
+	{ "Keyword",a.accent2 },
 
 	-- Operators and Delimiters
 	{ "Operator", m.color4 },
