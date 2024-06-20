@@ -51,7 +51,7 @@ return {
 	{ "String", a.accent6 },
 
 	-- Variables
-	{ "Type", m.color8, nil, "NONE" },
+	{ "Type", a.accent2, nil, "NONE" },
 	{ "Label", a.accent0 },
 
 	-- Constants and Literals
