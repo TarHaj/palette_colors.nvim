@@ -27,7 +27,7 @@ return {
 	{ "Include", m.color3 },
 
 	-- Statements and Keywords
-	{ "Statement", m.color3 },
+	{ "Statement", a.accent2 },
 	{ "Conditional", a.accent2 },
 	{ "Repeat", a.accent2 },
 	{ "Exception", a.accent2 },
@@ -35,12 +35,12 @@ return {
 	{ "Keyword",a.accent2 },
 
 	-- Operators and Delimiters
-	{ "Operator", m.color4 },
-	{ "Delimiter", m.color4 },
+	{ "Operator", a.accent2 },
+	{ "Delimiter", a.accent2 },
 
 	-- Comments and Documentation
-	{ "Comment", m.color6, nil, m.italic },
-	{ "DocComment", m.color6, nil, m.italic },
+	{ "Comment", a.accent3, nil, m.italic },
+	{ "DocComment", a.accent3, nil, m.italic },
 
 	-- Identifiers
 	{ "Identifier", m.color5 },
@@ -49,7 +49,7 @@ return {
 	{ "Function", m.color7 },
 
 	-- Strings
-	{ "String", m.color8 },
+	{ "String", a.accent6 },
 
 	-- Variables
 	{ "Type", m.color8, nil, "NONE" },
@@ -81,7 +81,7 @@ return {
 
 	-- Line Numbers
 	{ "LineNr", m.color3 },
-	{ "CursorLineNr", m.color4 },
+	{ "CursorLineNr", a.accent1 },
 
 	-- Folded text, and the column where it's shown
 	{ "Folded", m.color4, m.bg },
