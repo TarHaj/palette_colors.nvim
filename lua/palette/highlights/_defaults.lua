@@ -35,7 +35,7 @@ return {
 	{ "Keyword",a.accent2 },
 
 	-- Operators and Delimiters
-	{ "Operator", a.accent2 },
+	-- { "Operator", a.accent2 },
 	{ "Delimiter", a.accent2 },
 
 	-- Comments and Documentation
