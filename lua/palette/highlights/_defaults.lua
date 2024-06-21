@@ -162,7 +162,7 @@ return {
 	{ "@keyword.import", a.accent2 },
 	{ "@keyword.operator", a.accent2 },
 	{ "@keyword.repeat", a.accent2 },
-	{ "@type", a.accent2 },
+	{ "@type", a.accent3 },
 
 
 
