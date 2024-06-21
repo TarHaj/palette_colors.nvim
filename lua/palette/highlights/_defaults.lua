@@ -153,16 +153,18 @@ return {
 
   -- TreeSitter:
 	{ "@attribute", a.accent2 },
-	{ "@operator", a.accent2 },
+	{ "@operator", a.accent2 },               -- ==
 	{ "@keyword", a.accent3 },
 	{ "@keyword.conditional", a.accent2 },
 	{ "@keyword.directive", a.accent2 },
 	{ "@keyword.exception", a.accent2 },
 	{ "@keyword.function", a.accent6 },
 	{ "@keyword.import", a.accent2 },
-	{ "@keyword.operator", a.accent2 },
-	{ "@keyword.repeat", a.accent2 },
+	{ "@keyword.operator", a.accent2 },       -- .eq.
+	{ "@keyword.repeat", a.accent2 },         -- do, while
+	{ "@keyword.return", a.accent2 },
 	{ "@type", a.accent3 },
+	{ "@type.builtin", a.accent3 },
 
 
 
