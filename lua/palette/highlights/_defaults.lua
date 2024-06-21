@@ -27,7 +27,7 @@ return {
 	{ "Include", a.accent2 },
 
 	-- Statements and Keywords
-	{ "Statement", a.accent2 },
+	{ "Statement", a.accent3 },
 	{ "Conditional", a.accent2 },
 	{ "Repeat", a.accent2 },
 	{ "Exception", a.accent2 },
