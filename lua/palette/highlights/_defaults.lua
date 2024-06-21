@@ -19,7 +19,7 @@ return {
 	{ "EndOfBuffer", m.color3 },
 
 	-- Special characters
-	{ "Special", m.color3 },
+	{ "Special", m.accent2 },
 	{ "SpecialChar", m.color3 },
 
 	-- Preprocessor & Include
@@ -101,7 +101,7 @@ return {
 	-- More UI elements
 	{ "Cursor", m.color2 },
 	{ "CursorColumn", m.color2 },
-	{ "CursorLine", nil, m.color1 },
+	{ "CursorLine", nil, m.color2 },
 	{ "CursorLineFold", m.color2 },
 	{ "CursorLineSign", m.color2 },
 	{ "ToolbarLine", m.color3 },
