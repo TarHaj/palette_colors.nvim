@@ -154,6 +154,9 @@ return {
   -- TreeSitter:
 	{ "@attribute", a.accent2 },
 	{ "@operator", a.accent2 },               -- ==
+	{ "@function", a.accent3 },               -- ==
+	{ "@function.builtin", a.accent3 },               -- ==
+	{ "@function.method", a.accent3 },               -- ==
 	{ "@keyword", a.accent3 },
 	{ "@keyword.conditional", a.accent2 },
 	{ "@keyword.directive", a.accent2 },
@@ -167,10 +170,10 @@ return {
 	{ "@type", a.accent3 },
 	{ "@type.builtin", a.accent3 },
 	{ "@variable", a.accent7 },
-	{ "@variable.builin", a.accent3 },
+	{ "@variable.builtin", a.accent3 },
 	{ "@variable.member", a.accent8 },
 	{ "@variable.parameter", a.accent8 },
-	{ "@procedure_qualifier", a.accent2 },
+
 
 
 
