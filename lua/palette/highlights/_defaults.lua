@@ -153,7 +153,7 @@ return {
 
   -- TreeSitter:
 	{ "@operator", a.accent2 },
-	{ "@keyword", a.accent2 },
+	{ "@keyword.import", a.accent2 },
 
 
 }
