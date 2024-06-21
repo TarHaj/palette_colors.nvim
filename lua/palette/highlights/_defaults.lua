@@ -152,6 +152,7 @@ return {
 	{ "GitSignsDelete", m.error, m.bg },
 
   -- TreeSitter:
+	{ "@attribute", a.accent2 },
 	{ "@operator", a.accent2 },
 	{ "@keyword", a.accent2 },
 	{ "@keyword.conditional", a.accent2 },
@@ -161,5 +162,6 @@ return {
 	{ "@keyword.import", a.accent2 },
 	{ "@keyword.operator", a.accent2 },
 	{ "@keyword.repeat", a.accent2 },
+
 
 }
