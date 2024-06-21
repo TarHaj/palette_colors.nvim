@@ -154,7 +154,7 @@ return {
   -- TreeSitter:
 	{ "@attribute", a.accent2 },
 	{ "@operator", a.accent2 },               -- ==
-	{ "@function", a.accent4 },               -- 
+	{ "@function", a.accent3 },               -- 
 	{ "@function.builtin", a.accent4 },               -- read
 	{ "@function.method", a.accent4 },               -- ==
 	{ "@keyword", a.accent3 },
