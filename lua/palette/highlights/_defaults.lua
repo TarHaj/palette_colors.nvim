@@ -154,14 +154,14 @@ return {
   -- TreeSitter:
 	{ "@attribute", a.accent2 },
 	{ "@operator", a.accent2 },               -- ==
-	{ "@function", a.accent3 },               -- 
-	{ "@function.builtin", a.accent3 },               -- read
-	{ "@function.method", a.accent3 },               -- ==
+	{ "@function", a.accent4 },               -- 
+	{ "@function.builtin", a.accent4 },               -- read
+	{ "@function.method", a.accent4 },               -- ==
 	{ "@keyword", a.accent3 },
 	{ "@keyword.conditional", a.accent2 },
 	{ "@keyword.directive", a.accent2 },
 	{ "@keyword.exception", a.accent2 },
-	{ "@keyword.function", a.accent6 },
+	{ "@keyword.function", a.accent2 },
 	{ "@keyword.import", a.accent2 },
 	{ "@keyword.operator", a.accent2 },       -- .eq.
 	{ "@keyword.repeat", a.accent2 },         -- do, while
