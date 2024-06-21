@@ -170,6 +170,7 @@ return {
 	{ "@variable.builin", a.accent3 },
 	{ "@variable.member", a.accent8 },
 	{ "@variable.parameter", a.accent8 },
+	{ "@procedure_qualifier", a.accent2 },
 
 
 
