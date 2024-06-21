@@ -152,6 +152,6 @@ return {
 	{ "GitSignsDelete", m.error, m.bg },
 
   -- TreeSitter:
-	{ "TSOperator", a.accent5 },
+	{ "@operator", a.accent5 },
 
 }
