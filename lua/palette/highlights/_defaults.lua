@@ -154,7 +154,7 @@ return {
   -- TreeSitter:
 	{ "@attribute", a.accent2 },
 	{ "@operator", a.accent2 },
-	{ "@keyword", a.accent2 },
+	{ "@keyword", a.accent3 },
 	{ "@keyword.conditional", a.accent2 },
 	{ "@keyword.directive", a.accent2 },
 	{ "@keyword.exception", a.accent2 },
