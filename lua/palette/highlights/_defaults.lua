@@ -150,4 +150,8 @@ return {
 	{ "GitSignsAdd", s.ok, m.bg },
 	{ "GitSignsChange", s.warning, m.bg },
 	{ "GitSignsDelete", m.error, m.bg },
+
+  -- TreeSitter:
+	{ "TSStatement", a.accent5 },
+
 }
