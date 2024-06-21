@@ -13,7 +13,7 @@ return {
   {"@number.fortran", a.accent3},
   {"@boolean.fortran", a.accent3},
   {"@comment.fortran", a.accent3},
-  {"@type.fortran", a.accent3},
+  {"@type", a.accent3},
   {"@include", a.accent3},
   {"@attribute", a.accent3},
   {"@keyword.function.fortran", a.accent3},
