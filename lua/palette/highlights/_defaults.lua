@@ -43,7 +43,7 @@ return {
 	{ "DocComment", a.accent3, nil, m.italic },
 
 	-- Identifiers
-	{ "Identifier", m.accent6 },
+	{ "Identifier", m.color8 },
 	{ "Variable", m.color7 },
 	{ "Function", a.accent4 },
 
@@ -66,8 +66,8 @@ return {
 	{ "Debug", m.color3, nil, m.italic },
 
 	-- Status line, VertSplit, Tab pages, Titles, etc.
-	--{ "StatusLine", m.color1 },
-	--{ "StatusLineNC", m.color2 },
+	{ "StatusLine", m.color1 },
+	{ "StatusLineNC", m.color2 },
 	{ "VertSplit", m.color3 },
 	{ "TabLine", m.color3 },
 	{ "TabLineSel", m.color5 },
