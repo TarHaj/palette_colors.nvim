@@ -154,11 +154,11 @@ return {
   -- TreeSitter:
 	{ "@attribute", a.accent2 },
 	{ "@operator", a.accent2 },
-	{ "@keyword.fortran", a.accent2 },
+	{ "@keyword", a.accent2 },
 	{ "@keyword.conditional", a.accent2 },
 	{ "@keyword.directive", a.accent2 },
 	{ "@keyword.exception", a.accent2 },
-	{ "@keyword.function", a.accent2 },
+	{ "@keyword.function", a.accent6 },
 	{ "@keyword.import", a.accent2 },
 	{ "@keyword.operator", a.accent2 },
 	{ "@keyword.repeat", a.accent2 },
