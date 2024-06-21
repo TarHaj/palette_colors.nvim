@@ -39,7 +39,7 @@ return {
 	{ "Delimiter", a.accent2 },
 
 	-- Comments and Documentation
-	{ "Comment", a.accent4, nil, m.italic },
+	{ "Comment", m.color4, nil, m.italic },
 	{ "DocComment", a.accent3, nil, m.italic },
 
 	-- Identifiers
@@ -154,8 +154,8 @@ return {
   -- TreeSitter:
 	{ "@attribute", a.accent2 },
 	{ "@operator", a.accent2 },               -- ==
-	{ "@function", a.accent3 },               -- ==
-	{ "@function.builtin", a.accent3 },               -- ==
+	{ "@function", a.accent3 },               -- 
+	{ "@function.builtin", a.accent3 },               -- read
 	{ "@function.method", a.accent3 },               -- ==
 	{ "@keyword", a.accent3 },
 	{ "@keyword.conditional", a.accent2 },
