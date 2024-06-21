@@ -170,7 +170,7 @@ return {
 	{ "@type", a.accent3 },
 	{ "@type.builtin", a.accent3 },
 	{ "@variable", a.accent7 },
-	{ "@variable.builtin", a.accent3 },
+	{ "@variable.builtin", a.accent4 },
 	{ "@variable.member", a.accent8 },
 	{ "@variable.parameter", a.accent8 },
 
