@@ -39,7 +39,7 @@ return {
 	{ "Delimiter", a.accent2 },
 
 	-- Comments and Documentation
-	{ "Comment", a.accent3, nil, m.italic },
+	{ "Comment", a.accent4, nil, m.italic },
 	{ "DocComment", a.accent3, nil, m.italic },
 
 	-- Identifiers
@@ -48,7 +48,7 @@ return {
 	{ "Function", a.accent4 },
 
 	-- Strings
-	{ "String", a.accent6 },
+	{ "String", a.accent5 },
 
 	-- Variables
 	{ "Type", a.accent2, nil, "NONE" },
@@ -162,7 +162,7 @@ return {
 	{ "@keyword.import", a.accent2 },
 	{ "@keyword.operator", a.accent2 },
 	{ "@keyword.repeat", a.accent2 },
-	{ "@type", a.accent5 },
+	{ "@type", a.accent2 },
 
 
 
