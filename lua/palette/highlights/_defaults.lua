@@ -165,10 +165,10 @@ return {
 	{ "@keyword.return", a.accent2 },
 	{ "@type", a.accent3 },
 	{ "@type.builtin", a.accent3 },
-	{ "@variable", a.accent3 },
+	{ "@variable", a.accent7 },
 	{ "@variable.builin", a.accent3 },
-	{ "@variable.member", a.accent3 },
-	{ "@variable.parameter", a.accent3 },
+	{ "@variable.member", a.accent8 },
+	{ "@variable.parameter", a.accent8 },
 
 
 
