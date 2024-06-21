@@ -15,7 +15,7 @@ return {
   {"@comment.fortran", a.accent3},
   {"@type.fortran", a.accent3},
   {"@include", a.accent3},
-  {"@attribute.fortran", a.accent3},
+  {"@attribute", a.accent3},
   {"@keyword.function.fortran", a.accent3},
   {"@keyword.fortran", a.accent3},
   {"@conditional.fortran", a.accent3},
