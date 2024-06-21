@@ -24,7 +24,7 @@ return {
 
 	-- Preprocessor & Include
 	{ "PreProc", m.color3 },
-	{ "Include", m.color3 },
+	{ "Include", a.accent2 },
 
 	-- Statements and Keywords
 	{ "Statement", a.accent2 },
