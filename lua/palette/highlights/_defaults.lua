@@ -66,7 +66,7 @@ return {
 	{ "Debug", m.color3, nil, m.italic },
 
 	-- Status line, VertSplit, Tab pages, Titles, etc.
-	{ "StatusLine", m.color1 },
+	{ "StatusLine", m.color0 },
 	{ "StatusLineNC", m.color2 },
 	{ "VertSplit", m.color3 },
 	{ "TabLine", m.color3 },
