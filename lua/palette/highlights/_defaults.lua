@@ -163,6 +163,7 @@ return {
 	{ "@keyword.operator", a.accent2 },       -- .eq.
 	{ "@keyword.repeat", a.accent2 },         -- do, while
 	{ "@keyword.return", a.accent2 },
+	{ "@parameter.reference", a.accent2 },
 	{ "@type", a.accent3 },
 	{ "@type.builtin", a.accent3 },
 	{ "@variable", a.accent7 },
